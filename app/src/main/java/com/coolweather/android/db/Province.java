@@ -3,6 +3,7 @@ package com.coolweather.android.db;
 import org.litepal.crud.DataSupport;
 
 /**
+ * 省数据
  * Created by Administrator on 2018/2/25.
  */
 
